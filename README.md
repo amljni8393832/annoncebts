@@ -7,7 +7,7 @@
 
 ## 🔹 Description
 
-**BTS App** est une application mobile destinée aux étudiants et enseignants de BTS.  
+**annoncebts** est une application mobile destinée aux étudiants et enseignants de BTS.  
 Elle permet de **créer, gérer et publier des annonces** pour les cours, examens, soutenances, stages et emplois du temps.  
 
 
