@@ -1,0 +1,99 @@
+<resources>
+    <string name="app_name">Annonce BTS</string>
+    
+    <!-- Login Screen -->
+    <string name="login_title">Portail Institutionnel</string>
+    <string name="login_subtitle">Accédez à votre espace sécurisé pour consulter les communications académiques.</string>
+    <string name="email_label">Email Institutionnel</string>
+    <string name="email_hint">nom@institution.edu</string>
+    <string name="password_label">Code d\'accès</string>
+    <string name="password_hint">••••••••</string>
+    <string name="login_button">Se Connecter</string>
+    <string name="forgot_password">Code d\'accès oublié ?</string>
+    <string name="no_account">Première visite ?</string>
+    <string name="register_now">Demander un accès</string>
+    
+    <!-- Register Screen -->
+    <string name="register_title">Demande d\'Accès</string>
+    <string name="register_subtitle">Veuillez renseigner vos informations académiques pour l\'enregistrement.</string>
+    <string name="full_name_label">NOM COMPLET</string>
+    <string name="full_name_hint">ex: Jean Dupont</string>
+    <string name="select_role">VOTRE STATUT</string>
+    <string name="role_student">ÉTUDIANT</string>
+    <string name="role_teacher">ENSEIGNANT</string>
+    <string name="departments_title">FILIÈRES / DÉPARTEMENTS</string>
+    <string name="levels_title">NIVEAU D\'ÉTUDES</string>
+    <string name="create_account">Soumettre la demande</string>
+    <string name="already_have_account">Déjà inscrit ?</string>
+    <string name="sign_in">Connexion</string>
+    <string name="terms_agreement">En vous inscrivant, vous acceptez les politiques de confidentialité de l\'institution.</string>
+
+    <!-- Home Screen -->
+    <string name="home_title">Flux\nAcadémique.</string>
+    <string name="home_subtitle">COMMUNICATIONS RÉCENTES</string>
+    <string name="search_hint">Rechercher une communication...</string>
+    <string name="no_announcements">Aucune communication pour le moment.</string>
+    <string name="no_results">Aucun résultat correspondant.</string>
+    <string name="read_more">Lire la suite</string>
+    
+    <!-- Navigation -->
+    <string name="nav_home">Accueil</string>
+    <string name="nav_archive">Archives</string>
+    <string name="nav_profile">Profil</string>
+    
+    <!-- Admin Home -->
+    <string name="admin_home_title">Tableau de Bord</string>
+    <string name="btn_add_post">Ajouter</string>
+    <string name="admin_header_title">Administration BTS</string>
+    <string name="student_header_title">Espace Étudiant</string>
+    
+    <!-- Archive Screen -->
+    <string name="archive_title">Archives</string>
+    <string name="archive_subtitle">Historique des communications institutionnelles.</string>
+    <string name="search_archive_hint">Rechercher dans l\'historique...</string>
+
+    <!-- Profile Screen -->
+    <string name="profile_title">Profil Utilisateur</string>
+    <string name="edit_profile">Paramètres du profil</string>
+    <string name="profile_edit_card">Gestion des informations</string>
+    <string name="logout">Déconnexion</string>
+    
+    <!-- Edit Profile -->
+    <string name="edit_profile_title">Mise à jour du Profil</string>
+    <string name="update_button">Enregistrer les modifications</string>
+    <string name="new_password_label">Nouveau code d\'accès (optionnel)</string>
+    <string name="confirm_password_label">Confirmer le code d\'accès</string>
+    <string name="keep_current_hint">Laisser vide pour conserver l\'actuel</string>
+
+    <!-- Create/Edit Announcement -->
+    <string name="new_announcement_title">Nouvelle Communication</string>
+    <string name="edit_announcement_title">Modifier l\'annonce</string>
+    <string name="subject_label">Objet</string>
+    <string name="content_label">Contenu du message</string>
+    <string name="expiration_date_label">Validité jusqu\'au</string>
+    <string name="target_audience">Public visé</string>
+    <string name="audience_type">Type de destinataire</string>
+    <string name="publish_button">Diffuser le message</string>
+    <string name="update_announcement_button">Mettre à jour l\'annonce</string>
+    <string name="cancel_button">Annuler et revenir</string>
+    
+    <!-- Details Screen Actions -->
+    <string name="btn_edit">Modifier</string>
+    <string name="btn_delete">Supprimer</string>
+    <string name="delete_confirm_title">Confirmation</string>
+    <string name="delete_confirm_msg">Voulez-vous vraiment supprimer cette annonce ?</string>
+    <string name="delete_success">Annonce supprimée avec succès</string>
+    
+    <!-- Filters Dialog -->
+    <string name="filter_title">Critères de Sélection</string>
+    <string name="date_range">Période de publication</string>
+    <string name="start_date_hint">Date début</string>
+    <string name="end_date_hint">Date fin</string>
+    <string name="apply_filters">Filtrer</string>
+    <string name="reset_filters">Réinitialiser</string>
+    
+    <!-- Details Screen -->
+    <string name="details_title">Détails de l\'annonce</string>
+    <string name="sent_on">Diffusé le</string>
+    <string name="expires_on">Expire le</string>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Dark icon when selected (on light gray bg) -->
+    <item android:state_checked="true" android:color="@color/primary" />
+    <!-- Slightly visible icon when not selected (on white bg) -->
+    <item android:color="@color/outline" />
+</selector>
